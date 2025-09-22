@@ -1,0 +1,11 @@
+﻿SkillID,SkillName,Category,DemandScore,GrowthRate
+1,Python,Technical,95,25%
+2,AI & ML,Technical,92,28%
+3,Critical Thinking,Soft Skill,85,15%
+4,Communication,Soft Skill,88,12%
+5,Excel,Technical,80,10%
+6,Data Analysis,Technical,90,20%
+7,Leadership,Soft Skill,83,12%
+8,Problem Solving,Soft Skill,87,14%
+9,Cybersecurity,Technical,89,18%
+10,Project Management,Soft Skill,84,12%

@@ -1,0 +1,11 @@
+﻿JobID,JobTitle,Industry,DemandScore,Location,GrowthRate
+1,Software Engineer,IT,95,India,15%
+2,Data Analyst,IT,90,USA,20%
+3,Nurse,Healthcare,85,India,12%
+4,AI & ML Specialist,IT,92,UK,25%
+5,Sales Executive,Marketing,80,USA,10%
+6,FinTech Engineer,IT,88,India,22%
+7,Cybersecurity Analyst,IT,89,Germany,18%
+8,HR Specialist,HR,75,India,8%
+9,Project Manager,IT,83,India,12%
+10,Data Scientist,IT,93,USA,23%

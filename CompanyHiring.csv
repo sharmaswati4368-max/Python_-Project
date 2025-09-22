@@ -1,0 +1,8 @@
+﻿Column1,CompanyName,Industry,JobsHired,TopSkills,Locations
+1,Google,IT,200,"Python, AI, Data Analysis","USA, India"
+2,Infosys,IT,150,"Excel, Python, Project Management",India
+3,Apollo Hospital,Healthcare,120,"Nursing, Communication",India
+4,Microsoft,IT,180,"Python, AI, Leadership","USA, Germany"
+5,Wipro,IT,140,"Data Analysis, Problem Solving",India
+6,IBM,IT,160,"AI, Cybersecurity, Python","USA, India"
+7,Deloitte,Consulting,130,"Project Management, Leadership","UK, India"
